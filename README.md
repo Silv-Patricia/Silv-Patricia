@@ -21,15 +21,3 @@ Sou estudante de **Sistemas de Informação** no **IFMG - Campus São João Evan
 [![Lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=for-the-badge)](http://lattes.cnpq.br/6401161845517942)
 
 ---
-
-### | Linguagens e Tecnologias:
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silv-Patricia&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
-</div>
-
-### | Estatísticas:
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Silv-Patricia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</div>
