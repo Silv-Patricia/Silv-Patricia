@@ -49,7 +49,6 @@ Sou estudante de **Sistemas de Informação** no **IFMG - Campus São João Evan
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-
 <img
     align="left"
     alt="Inkscape"
@@ -58,9 +57,27 @@ Sou estudante de **Sistemas de Informação** no **IFMG - Campus São João Evan
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original-wordmark.svg"
 />
-<br/>
-<br/>
 
+<img
+    align="left"
+    alt="Dart"
+    title="Dart"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Flutter"
+    title="Flutter"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
+/>
+
+<br/>
+<br/>
 ---
 
 <h3 align="left">Linguagens e Estatísticas</h3>
