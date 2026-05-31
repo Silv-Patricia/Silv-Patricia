@@ -1,4 +1,9 @@
-# Olá, bem-vinda ao meu perfil! 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=600&lines=Ola,+seja+bem+vindo+ao+meu+perfil!+%5E-%5E+%E2%8A%B9" alt="Typing SVG">
+  </a>
+</div>
+
 
 Sou estudante de **Sistemas de Informação** no **IFMG - Campus São João Evangelista**. Este GitHub funciona como um registro da minha trajetória acadêmica e profissional, onde centralizo meus projetos de faculdade e estudos de programação.
 
@@ -6,10 +11,78 @@ Sou estudante de **Sistemas de Informação** no **IFMG - Campus São João Evan
 
 ---
 
-### 📊 Linguagens mais utilizadas
+<h3 align="left">Tecnologias</h3>
+
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+
+<img
+    align="left"
+    alt="Github"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silv-Patricia&layout=compact&theme=dracula&v=1)](https://github.com/Silv-Patricia)
+<img
+    align="left"
+    alt="Inkscape"
+    title="Inkscape"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original-wordmark.svg"
+/>
+<br/>
+<br/>
+
+---
+
+<h3 align="left">Linguagens e Estatísticas</h3>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Status" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-blush-delta-26.vercel.app/api?username=Silv-Patricia&show_icons=true&theme=tokyonight&hide_border=false&locale=pt-br"
+  />
+
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=Silv-Patricia&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2"
+  />
+</p>
+
+<br clear="both">
 
 ---
 
