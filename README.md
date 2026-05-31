@@ -9,8 +9,6 @@ Sou estudante de **Sistemas de Informação** no **IFMG - Campus São João Evan
 
 🎯 **Foco atual:** Aprimoramento em desenvolvimento Mobile (Flutter) e novos desafios acadêmicos no 5º período.
 
----
-
 <h3 align="left">Tecnologias</h3>
 
 <img 
