@@ -74,6 +74,15 @@ Sou estudante de **Sistemas de Informação** no **IFMG - Campus São João Evan
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
 />
 
+<img 
+  align="left" 
+  alt="Supabase" 
+  title="Supabase" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"
+  />
+
 <br/>
 <br/>
 ---
