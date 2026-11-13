@@ -85,7 +85,6 @@ Sou estudante de **Sistemas de Informação** no **IFMG - Campus São João Evan
 
 <br/>
 <br/>
----
 
 <h3 align="left">Linguagens e Estatísticas</h3>
 
