@@ -124,6 +124,9 @@ Sou estudante de **Sistemas de Informação** no **IFMG - Campus São João Evan
 [![Lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=for-the-badge)](http://lattes.cnpq.br/6401161845517942)
 
 
-
-![snake gif](https://github.com/Silv-Patricia/Silv-Patricia/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Silv-Patricia/Silv-Patricia/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Silv-Patricia/Silv-Patricia/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Silv-Patricia/Silv-Patricia/output/github-contribution-grid-snake.svg">
+</picture>
 
