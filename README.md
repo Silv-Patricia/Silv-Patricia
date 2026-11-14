@@ -15,7 +15,7 @@ Sou estudante de **Sistemas de Informação** no **IFMG - Campus São João Evan
 
 <h3 align="left">Tecnologias</h3>
 
-<div align="center" style="display: inline_block">
+<div align="center" style="display: inline-block">
 <br>
 
 <picture>
@@ -65,30 +65,39 @@ Sou estudante de **Sistemas de Informação** no **IFMG - Campus São João Evan
 
 <br>
 <br>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Light.svg">
+    <img width="50" alt="Windows" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Light.svg">
+    <img width="50" alt="Linux" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
+  </picture>
 </div>
 
 
 <h3 align="left">Linguagens e Estatísticas</h3>
-<div align="center" style="display: inline_block">
-  
+
+<div align="center">
   <img 
-    align="left" 
     alt="GitHub Status" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats-blush-delta-26.vercel.app/api?username=Silv-Patricia&show_icons=true&theme=tokyonight&hide_border=false&locale=pt-br"
   />
-
+  &nbsp;&nbsp;
   <img 
-    align="left" 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=Silv-Patricia&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2"/>
+    src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=Silv-Patricia&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2"
+  />
 
-<br clear="both">
+<br>
 
-[![](https://raw.githubusercontent.com/Silv-Patricia/Silv-Patricia/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-</div>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://raw.githubusercontent.com/Silv-Patricia/Silv-Patricia/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Summary">
+</a>
+
 </div>
 
 ---
