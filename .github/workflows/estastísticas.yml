@@ -1,7 +1,7 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # executa a cada 24 horas
+  schedule:
     - cron: "* * * * *"
   workflow_dispatch:
 
@@ -17,8 +17,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Silv-Patricia
-          THEME_TITLE: "tokyonight_custom"
-          THEME_BG: "#1a1b27"
-          THEME_TITLE_COLOR: "#70a5fd"
-          THEME_TEXT: "#a9b1d6"
-          THEME_ICON: "#38bdae"
