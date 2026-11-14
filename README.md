@@ -122,3 +122,8 @@ Sou estudante de **Sistemas de Informação** no **IFMG - Campus São João Evan
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrícia-da-silva-costa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patricia.silv.costa@gmail.com)
 [![Lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=for-the-badge)](http://lattes.cnpq.br/6401161845517942)
+
+
+
+![snake gif](https://github.com/Silv-Patricia/Silv-Patricia/blob/output/github-contribution-grid-snake.gif)
+
