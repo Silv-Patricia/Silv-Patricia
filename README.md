@@ -1,3 +1,7 @@
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:38bdae,100:70a5fd&height=190&section=header&text=Patr%C3%ADcia%20Silva&fontSize=42&fontColor=70a5fd&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o%20no%20IFMG&descSize=16&descAlignY=58&descColor=a9b1d6" alt="Banner de Patrícia Silva" />
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=600&lines=Ola,+seja+bem+vindo+ao+meu+perfil!+%5E-%5E+%E2%8A%B9" alt="Typing SVG">
@@ -7,54 +11,62 @@
 
 Sou estudante de **Sistemas de Informação** no **IFMG - Campus São João Evangelista**. Este GitHub funciona como um registro da minha trajetória acadêmica e profissional, onde centralizo meus projetos de faculdade e estudos de programação.
 
-🎯 **Foco atual:** Aprimoramento em desenvolvimento Mobile (Flutter) e novos desafios acadêmicos no 5º período.
+🎯 **Foco atual:** Aprimoramento em desenvolvimento Mobile (Flutter) e novos desafios acadêmicos.
 
 <h3 align="left">Tecnologias</h3>
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Light.svg">
+  <img width="50" alt="VSCode" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
-  <img width="40" alt="C++" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
+  <img width="50" alt="C++" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg">
-  <img width="40" alt="MySQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
+  <img width="50" alt="MySQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg">
-  <img width="40" alt="GitHub" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+  <img width="50" alt="GitHub" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="40" alt="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="50" alt="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original-wordmark.svg>
-  <img width="40" alt="Inkscape" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original-wordmark.svg>
+  <img width="50" alt="Inkscape" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original-wordmark.svg>
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Light.svg">
-  <img width="40" alt="Flutter" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg">
+  <img width="50" alt="Flutter" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Light.svg">
-  <img width="40" alt="Dart" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg">
+  <img width="50" alt="Dart" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Light.svg">
-  <img width="40" alt="Supabase" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Dark.svg">
+  <img width="50" alt="Supabase" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Dark.svg">
 </picture>
 
-<br/>
-<br/>
+<br>
+<br>
+</div>
+
 
 <h3 align="left">Linguagens e Estatísticas</h3>
 
@@ -71,17 +83,21 @@ Sou estudante de **Sistemas de Informação** no **IFMG - Campus São João Evan
     align="left" 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=Silv-Patricia&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2"
-  />
+    src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=Silv-Patricia&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2"/>
 </p>
 
 <br clear="both">
+
+[![](https://raw.githubusercontent.com/Silv-Patricia/Silv-Patricia/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
 
 ---
 
 ### 📑 Informações Profissionais e Acadêmicas
 
-* 🎓 **Estudante de Sistemas de Informação** (Iniciando 5º período em Março/2026).
+* 🎓 **Técnica em Informática**.
+* 🎓 **Estudante de Sistemas de Informação**.
 * 🏢 **Experiência:** Atuei na **OneBit**, a empresa júnior do curso de Sistemas de Informação do IFMG-SJE.
 * 📜 **Currículo Lattes:** [Acesse aqui meu Lattes](http://lattes.cnpq.br/6401161845517942)
 
