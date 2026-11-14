@@ -1,0 +1,24 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule: # executa a cada 24 horas
+    - cron: "* * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: Silv-Patricia
+          THEME_TITLE: "tokyonight_custom"
+          THEME_BG: "#1a1b27"
+          THEME_TITLE_COLOR: "#70a5fd"
+          THEME_TEXT: "#a9b1d6"
+          THEME_ICON: "#38bdae"
