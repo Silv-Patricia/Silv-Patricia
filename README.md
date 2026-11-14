@@ -1,6 +1,6 @@
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:38bdae,100:70a5fd&height=190&section=header&text=Patr%C3%ADcia%20Silva&fontSize=42&fontColor=70a5fd&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o%20no%20IFMG&descSize=16&descAlignY=58&descColor=a9b1d6" alt="Banner de Patrícia Silva" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:38bdae,100:70a5fd&height=190&section=header&text=Patr%C3%ADcia%20Silva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o%20no%20IFMG&descSize=16&descAlignY=58&descColor=c0caf5" alt="Banner de Patrícia Silva" />
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -69,8 +69,8 @@ Sou estudante de **Sistemas de Informação** no **IFMG - Campus São João Evan
 
 
 <h3 align="left">Linguagens e Estatísticas</h3>
-
-<p>
+<div align="center" style="display: inline_block">
+  
   <img 
     align="left" 
     alt="GitHub Status" 
@@ -84,12 +84,11 @@ Sou estudante de **Sistemas de Informação** no **IFMG - Campus São João Evan
     alt="Top Languages" 
     height="200" 
     src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=Silv-Patricia&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2"/>
-</p>
 
 <br clear="both">
 
-[![](https://raw.githubusercontent.com/Silv-Patricia/Silv-Patricia/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+[![](https://raw.githubusercontent.com/Silv-Patricia/Silv-Patricia/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</div>
 </div>
 
 ---
