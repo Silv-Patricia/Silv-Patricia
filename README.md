@@ -69,15 +69,6 @@ Sou estudante de **Sistemas de Informação** no **IFMG - Campus São João Evan
 
 <br>
 <br>
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Light.svg">
-    <img width="50" alt="Windows" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Light.svg">
-    <img width="50" alt="Linux" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
-  </picture>
-</div>
 
 
 <h3 align="left">Linguagens e Estatísticas</h3>
